@@ -4,7 +4,7 @@ This is not malware it just downloads the .dll engine. The source code is in the
 
 Downloaded DLL is only compatible with x64 systems.
 
-Dependencies: Desktop Development with C++ (And Windows SDK 10.2261+)
+Dependencies: Desktop Development with C++ (And Windows SDK 10.10.22621+)
 
 NuGet Packages:
 - Microsoft.Windows.CppWinRT
