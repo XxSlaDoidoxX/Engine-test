@@ -2,6 +2,8 @@
 
 This is not malware it just downloads the .dll engine. The source code is in the repo and you can compile it in Visual Studio yourself if you want to.
 
+Downloaded DLL is only compatible with x64 systems.
+
 Dependencies: Desktop Development with C++ (And Windows SDK 10.2261+)
 
 NuGet Packages:
